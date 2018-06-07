@@ -1,5 +1,4 @@
 # RobotToyGame
-Coding puzzle
 Toy Robot
 Code problem details:
 - The application is a simulation of a toy robot moving on a square tabletop, of
@@ -28,8 +27,6 @@ and REPORT commands.
 - The robot must not fall off the table during movement. This also includes the initial
 placement of the toy robot.
 - Any move that would cause the robot to fall must be ignored.
-- It is not required to provide any graphical output showing the movement of the toy
-robot.
 Plain input Examples:
 PLACE 0,0,NORTH PLACE 0,0,NORTH
 MOVE LEFT
@@ -42,6 +39,6 @@ LEFT
 MOVE
 REPORT
 Output: 3,3,NORTH
-Deliverables:
+Result
 - the whole project, example requests to test a robot-application in form of Postman-
-Collection or in form of a text file.
+Collection.
