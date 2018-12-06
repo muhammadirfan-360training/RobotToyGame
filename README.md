@@ -1,5 +1,4 @@
 # RobotToyGame
-Coding puzzle
 Toy Robot
 Code problem details:
 - The application is a simulation of a toy robot moving on a square tabletop, of
@@ -44,4 +43,4 @@ REPORT
 Output: 3,3,NORTH
 Deliverables:
 - the whole project, example requests to test a robot-application in form of Postman-
-Collection or in form of a text file.
+Collection.
